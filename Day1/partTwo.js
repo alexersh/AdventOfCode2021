@@ -10,7 +10,6 @@ const createArrayOfThreeMeasurementSums = (array) => {
 			newArray.push(sum);
 		}
 	});
-	console.log(newArray);
 	return newArray;
 };
 
